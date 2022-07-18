@@ -17,5 +17,13 @@
   "bugs": {
     "url": "https://github.com/RaghuRayaraddi/node-js/issues"
   },
-  "homepage": "https://github.com/RaghuRayaraddi/node-js#readme"
+  "homepage": "https://github.com/RaghuRayaraddi/node-js#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongodb": "^4.8.0",
+    "nodemon": "^2.0.19"
+  }
 }
